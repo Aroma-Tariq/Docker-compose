@@ -13,7 +13,7 @@
 
 ### Building the CLI
 
-Once you have the prerequisites installed, you can build the CLI using:
+//Once you have the prerequisites installed, you can build the CLI using:
 
 ```console
 make
